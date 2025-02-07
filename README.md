@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharat Jain</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b95255vzz9pk8mucd7bbzanf5rug7yvlb7p24pax4mg6&ep=v1_gifs_search&rid=200w.gif&ct=g"
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b95255vzz9pk8mucd7bbzanf5rug7yvlb7p24pax4mg6&ep=v1_gifs_search&rid=200w.gif&ct=g">
 - 📫 How to reach me **jainbharat1517@gmail.com**
 
 - ⚡ Fun fact **I am funny**
